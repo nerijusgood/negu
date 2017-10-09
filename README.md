@@ -1,0 +1,2 @@
+# negu
+Docs, ideas
